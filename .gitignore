@@ -1,0 +1,9 @@
+*.xcbkptlist
+*.o
+.DS_Store
+xcuserdata
+xcuserstate/*
+*.xcuserstate
+*.xcuserstate/*
+xcshareddata
+

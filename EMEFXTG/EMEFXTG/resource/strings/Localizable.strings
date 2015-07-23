@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  EMESHT
+
+  Created by appeme on 15/1/20.
+  Copyright (c) 2015年 eme. All rights reserved.
+*/
+
+/* App */
+"name" = "姓名";
+"sign" = "签名";
+"turnover" = "公司规模";
+"income" = "收入";
+"industry" = "行业类别";
+"business" = "主营业务";
+"duty" = "职务";
+"city" = "城市";
+"company" = "公司名称";
+"address" = "地址";

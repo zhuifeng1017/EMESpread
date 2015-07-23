@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bodyFont</key>
+	<string>AppleSDGothicNeo-Medium</string>
+	<key>bodyFontSize</key>
+	<string>17</string>
+	<key>headerFont</key>
+	<string>ArialRoundedMTBold</string>
+	<key>headerFontSize</key>
+	<string>30</string>
+	<key>bodyTextColor</key>
+	<string>505050</string>
+	<key>backgroundColor</key>
+	<string>8400c8</string>
+	<key>buttonFont</key>
+	<string>ArialRoundedMTBold</string>
+	<key>buttonFontSize</key>
+	<string>20</string>
+	<key>buttonTextColor</key>
+	<string>505050</string>
+	<key>headerColor</key>
+	<string>505050</string>
+	<key>highlightColor</key>
+	<string>ffffff</string>
+	<key>primaryColor</key>
+	<string>35a2fb</string>
+	<key>secondaryColor</key>
+	<string>ea3f34</string>
+</dict>
+</plist>

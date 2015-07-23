@@ -1,0 +1,17 @@
+{
+    "environment_type": "2",
+    "version": "2.0",
+    "app_ver_num": "1000",
+    "app_service": "shtapp",
+    "app_code": "sht",
+    "file_ver": "v3",
+    "database_ver": "001",
+    "curr_store_code":"A0001",
+    "cid": "a9d5fe5c-40fe-454c-aef3-31d69c156358",
+    "url": "http://192.168.7.170:8080",
+    "image_url":"http://192.168.7.212:9090/upload",
+    "image_host": "",
+    "host":"ims.appeme.com",
+    "port":1999,
+    "rongchat_appkey":"p5tvi9dst2724"
+}
